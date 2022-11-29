@@ -13,5 +13,14 @@ URL do curso -> [Tailwind CSS - Estilizando a sua Página com Classes Utilitári
 ## Links Úteis &#x1F517;
 * [Tailwind](https://tailwindcss.com/) - Site oficial do framework utilizado.
 
+***
+
 ## 01 - Olá, Tailwind CSS &#x1F516;
 * Utility Classes e praticar em um primeiro projeto.
+
+***
+
+## 02 - Alura Newsletter
+* Construção do layout da Alura Newsletter com o Tailwind.
+* Como utilizar o Tailwind.config para criar nossas próprias customizações.
+* Como esconder um elemento com a classe hidden do Tailwind.
