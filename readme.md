@@ -38,3 +38,10 @@ URL do curso -> [Tailwind CSS - Estilizando a sua Página com Classes Utilitári
 * Bordas e sombras.
 * Pseudo-classes e ring.
 * Responsividade.
+
+***
+
+## 05 - Animações com Tailwind CSS &#x1F516;
+* Parent state.
+* Animation.
+* Deploy do projeto.
