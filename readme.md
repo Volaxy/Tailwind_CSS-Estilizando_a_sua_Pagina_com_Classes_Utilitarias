@@ -24,3 +24,10 @@ URL do curso -> [Tailwind CSS - Estilizando a sua Página com Classes Utilitári
 * Construção do layout da Alura Newsletter com o Tailwind.
 * Como utilizar o Tailwind.config para criar nossas próprias customizações.
 * Como esconder um elemento com a classe hidden do Tailwind.
+
+***
+
+## 03 - Avançando no Projeto
+* Flexbox e grid.
+* Tipografia.
+* Espaçamento.
